@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9458d2122ac5fc15",
+            "id": "d07d4abf076862f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmation System/Amphi 1.md",
-                "mode": "preview",
+                "file": "PHP/Amphi 1.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 205.5
   },
   "right": {
     "id": "b6318ce36ae2f115",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmation System/Amphi 1.md",
+                "file": "PHP/Amphi 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmation System/Amphi 1.md",
+                "file": "PHP/Amphi 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmation System/Amphi 1.md"
+                "file": "PHP/Amphi 1.md"
               }
             }
           },
@@ -156,13 +155,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9458d2122ac5fc15",
+  "active": "d07d4abf076862f2",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "Programmation System/Amphi 1.md",
+    "Management des SI/Cours 1.md",
     "Introduction 2eme année.md",
-    "Untitled",
-    "Programmation System",
-    "Todolist IUT.md"
+    "Todolist IUT.md",
+    "Untitled.canvas",
+    "2023-09-06.md",
+    "PHP/Amphi 1.md",
+    "Programmation System/Amphi 1.md",
+    "PHP",
+    "Untitled 1.md",
+    "Programmation System/TP 1.md",
+    "Management des SI",
+    "Programmation System"
   ]
 }
