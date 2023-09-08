@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHP/Amphi 1.md",
+                "file": "Management des SI/Amphi 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "469e631aa472862b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management des SI/Chapitre 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 205.5,
+    "collapsed": true
   },
   "right": {
     "id": "b6318ce36ae2f115",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHP/Amphi 1.md",
+                "file": "Management des SI/Chapitre 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHP/Amphi 1.md",
+                "file": "Management des SI/Chapitre 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHP/Amphi 1.md"
+                "file": "Management des SI/Chapitre 1.md"
               }
             }
           },
@@ -155,17 +169,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d07d4abf076862f2",
+  "active": "469e631aa472862b",
   "lastOpenFiles": [
+    "Management des SI/Amphi 1.md",
+    "Management des SI/Chapitre 1.md",
+    "Pasted image 20230908105209.jpg",
+    "Untitled.md",
     "Management des SI/Cours 1.md",
+    "Untitled",
+    "PHP/Amphi 1.md",
     "Introduction 2eme année.md",
     "Todolist IUT.md",
     "Untitled.canvas",
     "2023-09-06.md",
-    "PHP/Amphi 1.md",
     "Programmation System/Amphi 1.md",
     "PHP",
-    "Untitled 1.md",
     "Programmation System/TP 1.md",
     "Management des SI",
     "Programmation System"
