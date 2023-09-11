@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "62afadd3bec00b45",
+        "id": "f3f15b6930ebdd13",
         "type": "tabs",
         "children": [
           {
-            "id": "d07d4abf076862f2",
+            "id": "f6ff19deb1439ab6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Management des SI/Amphi 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "469e631aa472862b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Management des SI/Chapitre 1.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 205.5
   },
   "right": {
     "id": "b6318ce36ae2f115",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management des SI/Chapitre 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Management des SI/Chapitre 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Management des SI/Chapitre 1.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,14 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "469e631aa472862b",
+  "active": "f6ff19deb1439ab6",
   "lastOpenFiles": [
+    "SAE/Présentation.md",
     "Management des SI/Amphi 1.md",
     "Management des SI/Chapitre 1.md",
+    "Analyse/Amphi 1.md",
+    "SAE",
+    "Analyse",
     "Pasted image 20230908105209.jpg",
-    "Untitled.md",
     "Management des SI/Cours 1.md",
-    "Untitled",
     "PHP/Amphi 1.md",
     "Introduction 2eme année.md",
     "Todolist IUT.md",
