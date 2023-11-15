@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f3f15b6930ebdd13",
+        "id": "59442d6e4ad42bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "f6ff19deb1439ab6",
+            "id": "80c30ec9dc2f0b37",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Droit/Cours 3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 205.5,
+    "collapsed": true
   },
   "right": {
     "id": "b6318ce36ae2f115",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Droit/Cours 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Droit/Cours 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Droit/Cours 3.md"
+              }
             }
           },
           {
@@ -127,6 +136,16 @@
             "state": {
               "type": "calendar",
               "state": {}
+            }
+          },
+          {
+            "id": "d423fe64796a4e82",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -147,19 +166,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6ff19deb1439ab6",
+  "active": "80c30ec9dc2f0b37",
   "lastOpenFiles": [
+    "Droit/Cours 2.md",
+    "Droit/Cours 3.md",
+    "Management des SI/Chapitre 1.md",
+    "Todolist IUT.md",
+    "Pasted image 20230908105209.jpg",
+    "Management des SI/Amphi 2.md",
+    "Management des SI/Amphi 3.md",
+    "Management des SI/Cours 1.md",
+    "Droit/Cours 1.md",
+    "Cryptographie et sécurité/Amphi 2.md",
+    "Droit",
+    "Analyse/Amphi 2.md",
+    "Analyse/Amphi 1.md",
+    "Cryptographie et sécurité/Amphi 1.md",
+    "PHP/Amphi 2.md",
+    "Cryptographie et sécurité",
+    "PHP/Amphi 1.md",
+    "PPP/Cours 1.md",
+    "PPP/Présentation texte.md",
+    "PPP",
     "SAE/Présentation.md",
     "Management des SI/Amphi 1.md",
-    "Management des SI/Chapitre 1.md",
-    "Analyse/Amphi 1.md",
     "SAE",
     "Analyse",
-    "Pasted image 20230908105209.jpg",
-    "Management des SI/Cours 1.md",
-    "PHP/Amphi 1.md",
     "Introduction 2eme année.md",
-    "Todolist IUT.md",
     "Untitled.canvas",
     "2023-09-06.md",
     "Programmation System/Amphi 1.md",
