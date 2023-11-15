@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Droit/Cours 3.md",
+                "file": "Droit/Exercice.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5,
-    "collapsed": true
+    "width": 205.5
   },
   "right": {
     "id": "b6318ce36ae2f115",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Droit/Cours 3.md",
+                "file": "Droit/Exercice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Droit/Cours 3.md",
+                "file": "Droit/Exercice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Droit/Cours 3.md"
+                "file": "Droit/Exercice.md"
               }
             }
           },
@@ -168,8 +167,9 @@
   },
   "active": "80c30ec9dc2f0b37",
   "lastOpenFiles": [
-    "Droit/Cours 2.md",
     "Droit/Cours 3.md",
+    "Droit/Exercice.md",
+    "Droit/Cours 2.md",
     "Management des SI/Chapitre 1.md",
     "Todolist IUT.md",
     "Pasted image 20230908105209.jpg",
