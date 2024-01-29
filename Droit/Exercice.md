@@ -5,11 +5,11 @@ Des bases de données gigantesque
 
 ## 2 Faut il craindre le big data
 
-Oui
+Oui (répondu à l'oral)
 
 ## 3
 
-Oui
+Oui (répondu à l'oral)
 
 ## 1
 
@@ -42,7 +42,3 @@ Parce que tous les pays doivent le respecter
 ## 8
 
 Car il n'est pas unique aux entreprises européennes
-
-## 9
-
-Parce que c'est sécurisé
